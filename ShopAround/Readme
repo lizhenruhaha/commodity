@@ -1,0 +1,9 @@
+项目名--->ShopAround
+爬虫名--->jd yhd kaolao
+商店名--->store_names
+商品名--->shop_names
+价格--->prices
+商品详情页链接--->shop_urls
+商品图片链接--->pic_urls
+
+下载环境包  pip install -r requirement.txt
